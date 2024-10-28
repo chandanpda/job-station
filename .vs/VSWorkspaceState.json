@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\JobStation",
+    "\\JobStation.Core",
+    "\\JobStation.Core\\Domain",
+    "\\JobStation\\Controllers"
+  ],
+  "SelectedNode": "\\JobStation\\JobStation.sln",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JobStation.Dto/1.0.0": {
+        "dependencies": {
+          "JobStation.Parameters": "1.0.0"
+        },
+        "runtime": {
+          "JobStation.Dto.dll": {}
+        }
+      },
+      "JobStation.Parameters/1.0.0": {
+        "runtime": {
+          "JobStation.Parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobStation.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JobStation.Parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

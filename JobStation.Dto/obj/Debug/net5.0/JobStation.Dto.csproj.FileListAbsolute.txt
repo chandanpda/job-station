@@ -1,0 +1,15 @@
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\bin\Debug\net5.0\JobStation.Dto.deps.json
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\bin\Debug\net5.0\JobStation.Dto.dll
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\bin\Debug\net5.0\ref\JobStation.Dto.dll
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\bin\Debug\net5.0\JobStation.Dto.pdb
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\bin\Debug\net5.0\JobStation.Parameters.dll
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\bin\Debug\net5.0\JobStation.Parameters.pdb
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\obj\Debug\net5.0\JobStation.Dto.csproj.AssemblyReference.cache
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\obj\Debug\net5.0\JobStation.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\obj\Debug\net5.0\JobStation.Dto.AssemblyInfoInputs.cache
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\obj\Debug\net5.0\JobStation.Dto.AssemblyInfo.cs
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\obj\Debug\net5.0\JobStation.Dto.csproj.CoreCompileInputs.cache
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\obj\Debug\net5.0\JobStation.Dto.csproj.CopyComplete
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\obj\Debug\net5.0\JobStation.Dto.dll
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\obj\Debug\net5.0\ref\JobStation.Dto.dll
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Dto\obj\Debug\net5.0\JobStation.Dto.pdb

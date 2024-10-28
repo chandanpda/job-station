@@ -1,0 +1,12 @@
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\bin\Debug\net5.0\JobStation.Parameters.deps.json
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\bin\Debug\net5.0\JobStation.Parameters.dll
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\bin\Debug\net5.0\ref\JobStation.Parameters.dll
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\bin\Debug\net5.0\JobStation.Parameters.pdb
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\obj\Debug\net5.0\JobStation.Parameters.csproj.AssemblyReference.cache
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\obj\Debug\net5.0\JobStation.Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\obj\Debug\net5.0\JobStation.Parameters.AssemblyInfoInputs.cache
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\obj\Debug\net5.0\JobStation.Parameters.AssemblyInfo.cs
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\obj\Debug\net5.0\JobStation.Parameters.csproj.CoreCompileInputs.cache
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\obj\Debug\net5.0\JobStation.Parameters.dll
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\obj\Debug\net5.0\ref\JobStation.Parameters.dll
+C:\Users\chandan kumar\source\repos\JobStation_V1\JobStation.Parameters\obj\Debug\net5.0\JobStation.Parameters.pdb
